@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Deploy a static website using AWS CodePipeline S3 and GitHub 
 
 
@@ -127,6 +126,3 @@ In conclusion, if you follow all the steps mentioned above, you will succeed in 
 
 
 
-=======
-# port
->>>>>>> 4177dfefbe1c41a0902af20ee5410af278e4914f
